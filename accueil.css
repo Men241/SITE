@@ -1,0 +1,73 @@
+
+body{
+    position: relative;
+    background-image: url("Assets/img/bcgd.jpg");
+    background-position: center;
+    margin: 0;
+}
+
+.menu{
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font: 0.7em "Marion";
+
+}
+
+
+.contenu{
+    position: relative;
+    width: 900px;
+    height: 400px;
+    background: linear-gradient(-30deg, #393b3d, #141316);
+    margin: auto;
+    margin-top: 150px;
+    border: 0.3px solid white;
+    filter: drop-shadow(0 0 0.1rem white);
+}
+
+img{
+    float: left;
+    width: 250px;
+    height: 225px;
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-right: 30px;
+    filter: contrast(100%);
+}
+
+.text{
+    color: white;
+    padding-top: 100px;
+    padding-right: 30px;
+    text-align: justify;
+    font-style: normal;
+    font: 0.9em "Lato";
+    line-height: 1.5em;
+}
+
+h1{
+    position: absolute;
+    width: 223px;
+    height: 37px;
+    color: white;
+    padding-left: 310px;
+    padding-top: 30px;
+    font-size: 28px;
+    opacity: 80%;
+
+}
+
+.copyrigth{
+    width: 250px;
+    height: 16px;
+    color: white;
+    margin-left: 40%;
+    padding-top: 40px;
+}

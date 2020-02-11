@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/FORMULAIRE/.idea/FORMULAIRE.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/FORMULAIRE/.idea/FORMULAIRE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/LETTRE DE MOTIVATION/.idea/LETTRE DE MOTIVATION.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/LETTRE DE MOTIVATION/.idea/LETTRE DE MOTIVATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/Liste241/.idea/Liste241.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/Liste241/.idea/Liste241.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/MEDIA/.idea/MEDIA.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/MEDIA/.idea/MEDIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/Positionnement/.idea/Positionnement.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/Positionnement/.idea/Positionnement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SITE.iml" filepath="$PROJECT_DIR$/.idea/SITE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mes Réalisations/PROJET/TABLEAU/.idea/TABLEAU.iml" filepath="$PROJECT_DIR$/../Mes Réalisations/PROJET/TABLEAU/.idea/TABLEAU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lettre/lettre/.idea/lettre.iml" filepath="$PROJECT_DIR$/../lettre/lettre/.idea/lettre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liste/.idea/liste.iml" filepath="$PROJECT_DIR$/../liste/.idea/liste.iml" />
     </modules>
   </component>
 </project>

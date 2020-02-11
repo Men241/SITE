@@ -8,5 +8,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="FORMULAIRE" />
+    <orderEntry type="module" module-name="LETTRE DE MOTIVATION" />
+    <orderEntry type="module" module-name="TABLEAU" />
+    <orderEntry type="module" module-name="Liste241" />
+    <orderEntry type="module" module-name="liste" />
+    <orderEntry type="module" module-name="lettre" />
+    <orderEntry type="module" module-name="MEDIA" />
+    <orderEntry type="module" module-name="Positionnement" />
   </component>
 </module>
